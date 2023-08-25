@@ -1,0 +1,18 @@
+@import '../../../../scss/styles.scss';
+
+.field-type.number {
+  position: relative;
+  margin-bottom: $baseline;
+
+  &:not(.has-many) {
+    input {
+      @include formInput;
+    }
+  }
+
+  &.error {
+    input {
+      background-color: var(--theme-error-200);
+    }
+  }
+}

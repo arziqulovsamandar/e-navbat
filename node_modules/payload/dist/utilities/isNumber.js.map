@@ -1,0 +1,1 @@
+{"version":3,"file":"isNumber.js","sourceRoot":"","sources":["../../src/utilities/isNumber.ts"],"names":[],"mappings":";;;AAAA,SAAgB,QAAQ,CAAC,KAAc;IACrC,IAAI,OAAO,KAAK,KAAK,QAAQ,IAAI,KAAK,CAAC,IAAI,EAAE,KAAK,EAAE,EAAC;QACnD,OAAO,KAAK,CAAA;KACb;IAED,OAAO,CAAC,MAAM,CAAC,KAAK,CAAC,MAAM,CAAC,KAAK,CAAC,CAAC,CAAC;AACtC,CAAC;AAND,4BAMC"}
